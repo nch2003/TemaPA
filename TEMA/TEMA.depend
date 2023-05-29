@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685352490 source:e:\proiecte_codeblocks\tema\main.c
+	"task_1.h"
+
+1685352775 e:\proiecte_codeblocks\tema\task_1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685349169 source:e:\proiecte_codeblocks\tema\task_1.c
+	"task_1.h"
+
