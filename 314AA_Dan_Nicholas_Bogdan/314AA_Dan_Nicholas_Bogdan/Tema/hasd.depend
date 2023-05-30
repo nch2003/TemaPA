@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1685384897 source:c:\users\user\desktop\hass\hasd\library.c
+	"library.h"
+
+1685380130 c:\users\user\desktop\hass\hasd\library.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685381912 source:c:\users\user\desktop\hass\hasd\main.c
+	"library.h"
+
+1685429691 source:c:\users\user\desktop\314aa_dan_nicholas_bogdan\314aa_dan_nicholas_bogdan\tema\library.c
+	"library.h"
+
+1685380130 c:\users\user\desktop\314aa_dan_nicholas_bogdan\314aa_dan_nicholas_bogdan\tema\library.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685429746 source:c:\users\user\desktop\314aa_dan_nicholas_bogdan\314aa_dan_nicholas_bogdan\tema\main.c
+	"library.h"
+
